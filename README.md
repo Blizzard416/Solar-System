@@ -1,2 +1,2 @@
-# Solar-System
-A 3D demonstration of the solar system
+# python-solar-system
+A solar system simulation
